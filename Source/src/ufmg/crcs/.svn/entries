@@ -1,0 +1,74 @@
+9
+
+dir
+46
+https://svn.code.sf.net/p/concernrecs/code/trunk/ConcernReCS/src/ufmg/crcs
+https://svn.code.sf.net/p/concernrecs/code
+
+
+
+2012-02-12T21:45:10.568664Z
+46
+periclesrafael
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ecc854d0-6853-4960-84ac-11c72213e77b
+
+ConcernReCS.java
+file
+
+
+
+
+2012-02-14T11:45:05.000000Z
+faa4ed8803b18d6876b8ac184cdaa4c1
+2011-11-19T20:33:08.929942Z
+43
+periclesrafael
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1945
+
+concernmapper
+dir
+
+properties
+dir
+
+smells
+dir
+
+ui
+dir
+

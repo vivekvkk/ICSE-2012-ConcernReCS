@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/concernrecs/code/!svn/ver/45/trunk/ConcernReCS/src/ufmg/crcs/smells/io
+END
+CodeSmellsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/concernrecs/code/!svn/ver/44/trunk/ConcernReCS/src/ufmg/crcs/smells/io/CodeSmellsWriter.java
+END
+CodeSmellsIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/concernrecs/code/!svn/ver/45/trunk/ConcernReCS/src/ufmg/crcs/smells/io/CodeSmellsIOException.java
+END

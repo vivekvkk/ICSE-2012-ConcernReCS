@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ConcernReCS
+Bundle-SymbolicName: ufmg.crcs;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Activator: ufmg.crcs.ConcernReCS
+Bundle-Vendor: UFMG
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ ca.mcgill.cs.serg.cm;bundle-version="2.0.3",
+ org.eclipse.jdt.core;bundle-version="3.7.0",
+ org.eclipse.core.resources;bundle-version="3.7.100"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
+Import-Package: org.eclipse.ui.dialogs
