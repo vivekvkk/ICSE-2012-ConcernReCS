@@ -2,7 +2,7 @@
 
 This repository contains information related to the tool ConcernReCS presented at International Conference on Software Engineering, 2012. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2337454).
 
-This repository is not the original repository for this tool. Here are some links to the original project:
+This repository _is not_ the original repository for this tool. Here are some links to the original project:
 * [The Official Project Page, including source code](http://sourceforge.net/p/concernrecs/home/Home/)
 * [A Video of the Tool](http://www.youtube.com/watch?v=xTpI2XwfSjY&feature=player_detailpage)
 
